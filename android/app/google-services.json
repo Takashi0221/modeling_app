@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603056400075",
+    "firebase_url": "https://harada-5b544.firebaseio.com",
+    "project_id": "harada-5b544",
+    "storage_bucket": "harada-5b544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603056400075:android:1013c6cbd70e698e229d4e",
+        "android_client_info": {
+          "package_name": "com.nike.modeling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603056400075-vcfkrqei5kcf1hr919k0kdvvts2cq2t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkTB8JFUFbHFxLlBk1eWM6JBZVVa2mMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603056400075-vcfkrqei5kcf1hr919k0kdvvts2cq2t4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603056400075-0eulhpn8spbfsn9spn6mj9s5qhvapovp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nike.modelingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
